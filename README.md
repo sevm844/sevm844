@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi there, I'm Sheena Elane Vilela Macadat!<br><br>🚀 About Me<br><br>🎓 I’m currently a student at the **University of Batangas**, pursuing my passion for technology and innovation.<br>🤝 I'm looking to collaborate on **open-source web applications** or any projects involving **UI/UX design**.<br>🙋‍♂️ I'm looking for help with **mastering backend architecture** and optimizing database queries.<br>📚 I'm currently **3rd Year BSIT Student**.<br>💬 Ask me about **Javascript, PHP, or the best places to grab coffee** around Batangas City.<br>⚡ Fun fact: I enjoy going to a beach, and open to any water activity.<br><br>
+ 👋 Hi there, I'm Sheena Elane Vilela Macadat!<br><br>🚀 About Me<br><br>🎓 I’m currently a student at **University of Batangas**, pursuing my passion for technology and innovation.<br>🤝 I'm looking to collaborate on **open-source web applications** or any projects involving **UI/UX Design**.<br>🙋‍♂️ I'm looking for help with **mastering backend architecture** and optimizing database queries.<br>📚 I'm currently **3rd Year BSIT Student**.<br>💬 Ask me about **Javascript, PHP, or the best places to grab coffee** around Batangas City.<br>⚡ Fun fact: I enjoy going to a beach, and open to any water activity.<br><br>
 
 
 ## 🌐 Socials:
